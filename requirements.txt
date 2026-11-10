@@ -1,0 +1,5 @@
+torch
+monai
+numpy
+SimpleITK
+tensorboard
